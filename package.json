@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@prisma/client": "^5.10.2",
-    "@radix-ui/react-calendar": "^1.0.0",
+
     "@radix-ui/react-collapsible": "^1.0.3",
     "@radix-ui/react-popover": "^1.0.7",
     "@radix-ui/react-select": "^2.0.0",
